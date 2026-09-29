@@ -82,8 +82,8 @@ swasthya-setu/
 ```
 ## 🛠️ **Getting Started & Local Installation**
 ## **1. Clone the Repository**
-```git clone [https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git](https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git)```
-```cd Swasthya-Setu-SIH26133```
+git clone [https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git](https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git)
+cd Swasthya-Setu-SIH26133
 
 ## **2. Set Up & Run the Backend (FastAPI)**
 ```cd backend
@@ -97,7 +97,7 @@ npm run dev
 Open your browser and navigate to http://localhost:5173.
 ```
 ## **👥 Team Arogya 360**
-##**Developed with ❤️ for Smart India Hackathon 2026.**
+## **Developed with ❤️ for Smart India Hackathon 2026.**
 
 ## **🛡️ License**
 This project is licensed under the terms of the MIT License.
