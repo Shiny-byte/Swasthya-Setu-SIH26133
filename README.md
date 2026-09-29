@@ -80,26 +80,26 @@ swasthya-setu/
 │   │   └── App.jsx
 └── README.md
 ```
-##🛠️ **Getting Started & Local Installation**
-##**1. Clone the Repository**
+## 🛠️ **Getting Started & Local Installation**
+## **1. Clone the Repository**
 ```git clone [https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git](https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git)```
 ```cd Swasthya-Setu-SIH26133```
 
-##**2. Set Up & Run the Backend (FastAPI)**
+## **2. Set Up & Run the Backend (FastAPI)**
 ```cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload --port 8000
 ```
-##**3. Set Up & Run the Frontend (React Vite)**
+## **3. Set Up & Run the Frontend (React Vite)**
 ```cd frontend
 npm install
 npm run dev
 Open your browser and navigate to http://localhost:5173.
 ```
-##**👥 Team Arogya 360**
+## **👥 Team Arogya 360**
 ##**Developed with ❤️ for Smart India Hackathon 2026.**
 
-#**🛡️ License**
+## **🛡️ License**
 This project is licensed under the terms of the MIT License.
 
 
