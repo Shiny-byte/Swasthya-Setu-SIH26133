@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=200&h=200&q=80" alt="Swasthya Setu Logo" width="100" style="border-radius: 50%;"/>
+  <img src="logo.svg" alt="Swasthya Setu Logo" width="100" style="border-radius: 50%;"/>
 
   # 🌐 Swasthya Setu (स्वास्थ्य सेतु)
   ### *A 2G-Resilient, Offline-First Rural Health Triage & Specialist Tele-Consultation Platform*
@@ -82,9 +82,9 @@ swasthya-setu/
 ```
 ## 🛠️ **Getting Started & Local Installation**
 ## **1. Clone the Repository**
-```git clone [https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git](https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git)
-cd Swasthya-Setu-SIH26133
-```
+```git clone [https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git](https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git)```
+```cd Swasthya-Setu-SIH26133```
+
 ## **2. Set Up & Run the Backend (FastAPI)**
 ```cd backend
 pip install -r requirements.txt
