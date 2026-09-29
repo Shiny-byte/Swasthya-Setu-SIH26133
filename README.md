@@ -57,3 +57,27 @@ Rural healthcare delivery across remote Indian villages continues to suffer from
        │  (Patient Records, Consultation Tickets, Medicine Inventory)
        ▼
  🌐 External Gateway Integrations (ABDM ABHA, 102/108 Ambulance Dispatch, SMS Gateway)
+```
+📂 Project Directory Structure
+```text
+swasthya-setu/
+├── backend/
+│   ├── main.py            # FastAPI entry point & API endpoints
+│   ├── models.py          # SQLAlchemy database schema definition
+│   ├── schemas.py         # Pydantic data validation models
+│   ├── auth.py            # JWT security & user authentication
+│   └── database.py        # SQLite database session manager
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── AshaTriage.jsx         # Frontline ASHA worker intake form
+│   │   │   ├── PatientPortal.jsx      # Patient self-intake & GPS tracking
+│   │   │   ├── DoctorQueue.jsx        # Multi-specialist tele-OPD queue & e-Rx desk
+│   │   │   ├── DistrictAdminDashboard.jsx # DHO analytics, heatmaps & fleet view
+│   │   │   ├── VideoCallModal.jsx     # Secure WebRTC video consultation
+│   │   │   └── offlinesync.js         # 2G compression & outbox synchronization
+│   │   ├── translations.js            # Multilingual support (English, Marathi, Hindi)
+│   │   └── App.jsx
+└── README.md
+```
+
