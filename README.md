@@ -82,9 +82,9 @@ swasthya-setu/
 ```
 ## 🛠️ **Getting Started & Local Installation**
 ## **1. Clone the Repository**
-git clone [https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git](https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git)
+```git clone [https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git](https://github.com/Shiny-byte/Swasthya-Setu-SIH26133.git)
 cd Swasthya-Setu-SIH26133
-
+```
 ## **2. Set Up & Run the Backend (FastAPI)**
 ```cd backend
 pip install -r requirements.txt
