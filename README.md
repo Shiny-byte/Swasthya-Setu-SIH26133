@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="logo.svg" alt="Swasthya Setu Logo" width="100" style="border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/Shiny-byte/Swasthya-Setu-SIH26133/main/logo.svg" alt="Swasthya Setu Logo" width="120" style="border-radius: 50%;"/>
 
   # 🌐 Swasthya Setu (स्वास्थ्य सेतु)
   ### *A 2G-Resilient, Offline-First Rural Health Triage & Specialist Tele-Consultation Platform*
